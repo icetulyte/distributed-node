@@ -1,0 +1,19 @@
+{
+  "name": "recipe-api",
+  "version": "1.0.0",
+  "main": "producer-http-basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.11.1",
+    "@grpc/proto-loader": "^0.7.13",
+    "fastify": "^4.28.1",
+    "fastify-gql": "^5.8.2",
+    "mercurius": "^14.1.0"
+  }
+}
